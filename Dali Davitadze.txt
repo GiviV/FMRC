@@ -1,0 +1,11 @@
+hosting service Namecheap:
+
+
+link: https://ap.www.namecheap.com/
+username: fmrcbatumi
+password: fmrcfmrc123..FM
+
+
+Cpanel:
+username: admin
+password: adminpanel123
